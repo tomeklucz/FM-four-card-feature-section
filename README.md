@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component
 
-This is a solution to the [FAQ accordion card on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
+This is a solution to the [Four card feature section on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 ## Table of contents
 
@@ -15,13 +15,14 @@ This is a solution to the [FAQ accordion card on Frontend Mentor](https://www.fr
 
 ### Screenshot
 
-![](./screenshots/Screenshot-1-desktop.png)
-![](./screenshots/Screenshot-2-mobile.jpg)
+![](./screenshots/Screenshot-1-mobile.jpg)
+![](./screenshots/Screenshot-2-tablet.png)
+![](./screenshots/Screenshot-3-desktop.png)
 
 ### Links
 
-- Solution URL: [GitHub repository](https://github.com/tomeklucz/FM-FAQ-accordion-card)
-- Live Site URL: [Netlify](https://tomeklucz-fm-faq-accordion-card.netlify.app/)
+- Solution URL: [GitHub repository](https://github.com/tomeklucz/FM-four-card-feature-section)
+- Live Site URL: [Netlify](https://tomeklucz-fm-four-card-feature-section.netlify.app/)
 
 ## My process
 
@@ -31,7 +32,6 @@ This is a solution to the [FAQ accordion card on Frontend Mentor](https://www.fr
 - CSS custom properties
 - Flexbox
 - Mobile first design
-- JavaScript
 
 ## Author
 
