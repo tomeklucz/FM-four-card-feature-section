@@ -16,16 +16,9 @@ This is a solution to the [Four card feature section on Frontend Mentor](https:/
 ### Screenshots
 
 <p align="center" width="100%"> 
-<hr>
-MOBILE
 <img src="/screenshots/Screenshot-1-mobile.jpg" alt="" width="400px"/>
-<hr>
-TABLET
 <img src="/screenshots/Screenshot-2-tablet.PNG" alt="" />
-<hr>
-DESKTOP
 <img src="/screenshots/Screenshot-3-desktop.PNG" alt=""/>
-<hr>
 </p>
 
 ### Links
