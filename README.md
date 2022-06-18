@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component
+# Frontend Mentor - Four card feature section
 
 This is a solution to the [Four card feature section on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
@@ -15,9 +15,11 @@ This is a solution to the [Four card feature section on Frontend Mentor](https:/
 
 ### Screenshots
 
-![](./screenshots/Screenshot-1-mobile.jpg)
-![](./screenshots/Screenshot-2-tablet.PNG)
-![](./screenshots/Screenshot-3-desktop.PNG)
+<p align="center" width="100%"> 
+<img src="/screenshots/Screenshot-1-mobile.jpg" alt="" width="400px"/>
+<img src="/screenshots/Screenshot-2-tablet.PNG" alt="" />
+<img src="/screenshots/Screenshot-3-desktop.PNG" alt=""/>
+</p>
 
 ### Links
 
